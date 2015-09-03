@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+section {
+	background-color: #5a5a5a;
+	width: 100%;
+	height: 50px;
+	border-bottom: 1px dotted #fff;
+	text-align: center;
+	margin: 0 auto 0 auto;
+}
+span {
+	font: normal 15px/50px Tahoma, Arial;
+	color: #FFF;
+}
