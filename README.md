@@ -1,5 +1,22 @@
 <p><b>Application overview:</b></p>
-<p>a Python, Openstack and PHP based server management console. currently it only works on linux. to get it working, please follow the steps:</p>
+<p>a Python, Openstack and PHP based server management console. currently it only works on linux.</p>
+<p><b>Feature list</b></p>
+* Overview: Provides a clean overview of the dashboard and the available features.
+* Console: A VNC console for the virtual server.
+* Log: Provides console log in text format for the virtual server.
+* Diagnostics: Preview some diagnostics data such as CPU time and HDD errors.
+* Start server.
+* Shutdown server.
+* pause server.
+* resume server.
+* Lock server.
+* Unlock server.
+* Soft reboot.
+* Hard reboot.
+* Create snapshot.
+* Delete server.
+* Buy now: Redirects to the sales page.
+<br>
 
 <p><b>Installation guide:</b></p>
 <p>1-Put the &quot;scripts&quot; file in your &quot;/&quot; directory and give it execute permissions for all users..</p>
@@ -28,19 +45,4 @@
 <p>The server log windows</p>
 <a href="http://imgur.com/aeAoysV"><img src="http://i.imgur.com/aeAoysV.png" title="source: imgur.com" /></a>
 <br>
-<p><b>Feature list</b></p>
-* Overview: Provides a clean overview of the dashboard and the available features.
-* Console: A VNC console for the virtual server.
-* Log: Provides console log in text format for the virtual server.
-* Diagnostics: Preview some diagnostics data such as CPU time and HDD errors.
-* Start server.
-* Shutdown server.
-* pause server.
-* resume server.
-* Lock server.
-* Unlock server.
-* Soft reboot.
-* Hard reboot.
-* Create snapshot.
-* Delete server.
-* Buy now: Redirects to the sales page.
+
