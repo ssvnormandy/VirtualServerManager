@@ -5,16 +5,10 @@
 * Console: A VNC console for the virtual server.
 * Log: Provides console log in text format for the virtual server.
 * Diagnostics: Preview some diagnostics data such as CPU time and HDD errors.
-* Start server.
-* Shutdown server.
-* pause server.
-* resume server.
-* Lock server.
-* Unlock server.
-* Soft reboot.
-* Hard reboot.
+* Start, shutdown, pause, resume and delete server
+* Lock & unlock server.
+* Soft reboot & hard reboot.
 * Create snapshot.
-* Delete server.
 * Buy now: Redirects to the sales page.
 <br>
 
